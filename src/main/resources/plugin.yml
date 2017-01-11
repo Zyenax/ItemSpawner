@@ -1,0 +1,4 @@
+name: ItemSpawner
+version: 1.0
+main: net.ItemSpawner.main.Main
+author: Blxd
